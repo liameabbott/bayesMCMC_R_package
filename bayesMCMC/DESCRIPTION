@@ -1,0 +1,11 @@
+Package: bayesMCMC
+Type: Package
+Title: Fitting a Bayesian Linear Regression Model
+Version: 1.0
+Date: 2015-12-11
+Author: Liam Abbott, David Reynolds
+Maintainer: Liam Abbott <test@test.com>
+Description: This package implements the Metropolis-Hastings and Gibbs sampler Markov Chain Monte Carlo (MCMC) algorithms to estimate coefficients for a Bayesian multiple linear regression model.
+License: GPL (>= 2)
+Imports: Rcpp
+LinkingTo: Rcpp, RcppEigen
