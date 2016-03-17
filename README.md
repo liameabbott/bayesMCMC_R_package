@@ -11,3 +11,5 @@ To install the package:
 * In the terminal, navigate to the directory containing the installation package and type 'R CMD INSTALL bayesMCMC_1.0.tar.gz'
 * Open R and type 'library(bayesMCMC)' to make sure the package was installed correctly
 * After loading the package in an R session, type '? bayesMCMC' to view an overview of the functionality of the package, including short descriptions of the functions included in the package.
+
+To learn more about the package, including a brief mathematical background of the algorithms implemented, please see the paper 'bayesMCMC_final_paper.pdf' and the accompanying slide deck 'bayesMCMC_presentation.pptx'.
